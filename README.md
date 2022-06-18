@@ -1,2 +1,2 @@
 # python-games
-please fucking work
+*games* *gaming*
